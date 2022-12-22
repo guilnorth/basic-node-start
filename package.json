@@ -16,7 +16,7 @@
     "consign": "^0.1.6",
     "express": "^4.16.2",
     "fs": "^0.0.1-security",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^4.13.4",
     "nodemailer": "^4.4.1",
     "nodemailer-express-handlebars": "^2.0.0",
